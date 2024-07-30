@@ -1,0 +1,27 @@
+*{
+    font-family: "EB Garamond", serif;
+    /* color de algunas letras */
+    color: black;
+}
+header{
+    background-color: #677D6A;
+}
+.nav a{
+    color: #1f2220;
+}
+.nav-item a{
+    color: #E2E2B6;
+}
+.nav-item a:hover{
+    color: #E2E2B6;
+}
+/* link visitado */
+.nav-item a:visited{
+    color: #E2E2B6;
+}
+#inicio-button{
+    background-color: #40534C;
+}
+
+
+
