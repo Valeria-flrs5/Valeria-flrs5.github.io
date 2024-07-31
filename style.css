@@ -22,6 +22,9 @@ header{
 #inicio-button{
     background-color: #40534C;
 }
-
-
-
+body{
+    background-color: #F1F1F1;
+}
+footer{
+    background-color: #F1F1F1;
+}
